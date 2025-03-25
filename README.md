@@ -79,14 +79,9 @@ AgriAssist/
 
 ## 🤝 Contributors
 
-- **Your Name** – Project Lead
-- **Other Team Members (if any)**
+- **Pradeesh S**
+- **Prakash Dass R**
+- **Sai Dhinakar S**
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README with additional details! 🚀😃
 
